@@ -1,6 +1,6 @@
 package com.oliferov.moviesapikinopoisk.di
 
-import com.oliferov.moviesapikinopoisk.MainActivity
+import com.oliferov.moviesapikinopoisk.presentation.ui.MainActivity
 import dagger.Component
 
 @Component(

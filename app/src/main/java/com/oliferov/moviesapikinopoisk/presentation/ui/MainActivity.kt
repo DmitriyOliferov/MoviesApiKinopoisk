@@ -1,8 +1,9 @@
-package com.oliferov.moviesapikinopoisk
+package com.oliferov.moviesapikinopoisk.presentation.ui
 
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import com.oliferov.moviesapikinopoisk.R
 import com.oliferov.moviesapikinopoisk.data.network.ApiFactory
 import com.oliferov.moviesapikinopoisk.data.repository.MovieRepositoryImpl
 
